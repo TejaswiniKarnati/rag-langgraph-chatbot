@@ -1,0 +1,32 @@
+{
+  "demo": {
+    "id": "usr_demo_01",
+    "username": "demo",
+    "full_name": "Alex Demo",
+    "role": "Researcher",
+    "password_hash": "ccfa9a6d5e348d2bb8fd884caf18195b8e3c26ee1e41f499b761509cf9bcd3d5",
+    "salt": "demo_salt_constant",
+    "avatar": "\ud83e\uddd1\u200d\ud83d\udcbb",
+    "created_at": 1792234145.7238314
+  },
+  "admin": {
+    "id": "usr_admin_01",
+    "username": "admin",
+    "full_name": "Admin User",
+    "role": "Administrator",
+    "password_hash": "e2e93d8c491bd3b7054addb521739ccf104b771f9e962d23ea08247569f4af8c",
+    "salt": "admin_salt_constant",
+    "avatar": "\u26a1",
+    "created_at": 1792234145.7238324
+  },
+  "tejaswini01": {
+    "id": "usr_40979b018249",
+    "username": "tejaswini01",
+    "full_name": "Tejaswini Karnati",
+    "role": "Member",
+    "password_hash": "91a693a6508a09758a2f1e10d3db1aec0423184f8a39def1c5027a1adf476c3c",
+    "salt": "3920b52a28bfc7affcbb313b7bf1d537",
+    "avatar": "\ud83e\udd16",
+    "created_at": 1792236103.6733232
+  }
+}

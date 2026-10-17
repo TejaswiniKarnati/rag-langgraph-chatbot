@@ -1,0 +1,12 @@
+{
+  "name": "simple-rag-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agentic RAG Assistant with LangGraph, ChromaDB, and FastAPI",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "server": ".\\venv\\Scripts\\python.exe -m uvicorn backend.app:app --host 127.0.0.1 --port 8000 --reload",
+    "start": ".\\venv\\Scripts\\python.exe -m uvicorn backend.app:app --host 127.0.0.1 --port 8000"
+  }
+}
